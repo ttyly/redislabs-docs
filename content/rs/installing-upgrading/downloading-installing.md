@@ -27,7 +27,7 @@ select one of the following options:
 Note: If you are using the AMI option or installing the .tar file
 package on an AWS instance, review the guidelines in [Configuration of
 AWS
-instances]({{< relref "/rs/installing-upgrading/configuring-aws-instances.md" >}}).
+instances]({{< relref "configuring-aws-instances.md" >}}).
 
 ## Prerequisites
 
