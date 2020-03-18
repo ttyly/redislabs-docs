@@ -427,7 +427,7 @@ Syntax:
 
 Ouput:
 
-See example [here](/rcessentials/administration).
+See example [here](/rc/administration).
 
 ### Recently updated
 This shortcode can be used to display recently updated articles.
