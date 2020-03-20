@@ -9,4 +9,4 @@ aliases: /rs/administering/installing-upgrading/
 This section explains how to install, upgrade and uninstall Redis
 Enterprise Software (RS).
 
-{{%allchildren style="h2" description="true"%}}
+{{< allchildren style="h2" description="true" />}}
